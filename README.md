@@ -20,17 +20,17 @@ This repo contains stl files for skirts for a 350 Voron V2.4r2 build, which coul
 3. Add a filament change after layer 8 /1.6mm
 
 <figure>
-    <img src="/images/slicer-settings.png" >
+    <img src="/images/slicer_settings.png" >
     <figcaption>Slicer settings</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/slicer-front.png"  width="700" >
+    <img src="/images/slicer_front.png"  width="700" >
     <figcaption>Slicer front</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/slicer-side.png"  width="700" >
+    <img src="/images/slicer_side.png"  width="700" >
     <figcaption>Slicer side</figcaption>
 </figure>
 
