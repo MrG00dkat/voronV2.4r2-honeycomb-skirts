@@ -25,12 +25,12 @@ This repo contains stl files for skirts for a 350 Voron V2.4r2 build, which coul
 </figure>
 
 <figure>
-    <img src="/images/slicer_front.png"  width="700" >
+    <img src="/images/slicer_front_skirt.png"  width="700" >
     <figcaption>Slicer front</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/slicer_side.png"  width="700" >
+    <img src="/images/slicer_side_skirt.png"  width="700" >
     <figcaption>Slicer side</figcaption>
 </figure>
 
