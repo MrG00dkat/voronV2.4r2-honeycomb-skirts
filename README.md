@@ -4,15 +4,13 @@ In [this video](https://www.youtube.com/watch?v=K6sHfXldK4k) of Eddie the Engine
 
 This repo contains stl files for skirts for a 350 Voron V2.4r2 build, which could be printed with a filament change to get the same result. (I also added the my project files for PrusaSlicer)
 
-![Front Skirt](images/front-skirt.jpeg)
-
 <figure>
-    <img src="/images/front-skirt.jpeg"  width="700" >
+    <img src="/images/front_skirt.jpeg"  width="700" >
     <figcaption>Front Skirt</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/side-skirt.jpeg"  width="700" >
+    <img src="/images/side_skirt.jpeg"  width="700" >
     <figcaption>Side Skirt</figcaption>
 </figure>
 
@@ -22,17 +20,17 @@ This repo contains stl files for skirts for a 350 Voron V2.4r2 build, which coul
 3. Add a filament change after layer 8 /1.6mm
 
 <figure>
-    <img src="/images/slicer-settings.jpeg" >
+    <img src="/images/slicer-settings.png" >
     <figcaption>Slicer settings</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/slicer-front.jpeg"  width="700" >
+    <img src="/images/slicer-front.png"  width="700" >
     <figcaption>Slicer front</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/slicer-side.jpeg"  width="700" >
+    <img src="/images/slicer-side.png"  width="700" >
     <figcaption>Slicer side</figcaption>
 </figure>
 
